@@ -1,0 +1,1 @@
+The HTTP Request Method that ensures that the submitted parameters do not appear in the Request URL is the POST method. Unlike GET requests, which append parameters to the URL as query string parameters, POST requests send parameters within the body of the request, making them less visible.
