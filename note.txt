@@ -2,5 +2,5 @@ The HTTP Request Method that ensures that the submitted parameters do not appear
 
 The "q" value, in this context, refers to a relative quality value used in HTTP headers, particularly within the Accept-Language header. It is used to indicate the preference level for different languages, with a value closer to 1 (like 0.9) indicating a higher preference.
 
-
+image/avif
 AV1 Image File Format is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. It competes with HEIC, which uses the same container format built upon ISOBMFF, but HEVC for compression
