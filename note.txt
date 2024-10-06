@@ -1,1 +1,3 @@
 The HTTP Request Method that ensures that the submitted parameters do not appear in the Request URL is the POST method. Unlike GET requests, which append parameters to the URL as query string parameters, POST requests send parameters within the body of the request, making them less visible.
+
+The "q" value, in this context, refers to a relative quality value used in HTTP headers, particularly within the Accept-Language header. It is used to indicate the preference level for different languages, with a value closer to 1 (like 0.9) indicating a higher preference.
